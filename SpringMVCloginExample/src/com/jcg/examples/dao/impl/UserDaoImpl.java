@@ -10,9 +10,7 @@ import javax.sql.DataSource;
 import com.jcg.examples.dao.UserDao;
 
 
-/**
- * @author CENTAUR
- */
+
 public class UserDaoImpl implements UserDao
 {
 
